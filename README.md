@@ -21,6 +21,6 @@
                 <p>To create this project, I developed skills in PDF scraping using PyPDF2, Camelot, and Tabula, and data cleaning through pandas and Excel, and I experimented with RawGraphs and Adobe Illustrator. I learned about the many types of data variations that can occur when working with thousands of rows of data from more than one dataset, and the importance of documentation during data cleaning.
                 </p>
                 <h2 class="title">Future Work</h2>
-                <p>To further develop this story, I want to explore data about tsunami risk zones, school enrollment, and prior seismic retrofitting work, in order to generate a fuller picture of the readiness of public school buildings across Washington State. I am also interested in incorporating data about private schools and daycares. I also want to learn how to conduct more data cleaning and merging work in pandas.
+                <p>To further develop this story, I want to explore data about tsunami risk zones, school enrollment, and prior seismic retrofitting work, in order to generate a fuller picture of the readiness of public school buildings across Washington State. I am also interested in incorporating data about private schools and preschools. I also want to learn how to conduct more data cleaning and merging work in pandas.
                 </p>
-                <p>https://efkodon.github.io/wa-schools-seismic//</p>
+                <p>https://efkodon.github.io/wa-schools-seismic/</p>
